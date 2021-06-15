@@ -1,6 +1,11 @@
-# Various Jupyter Notebook
+# Various Jupyter Notebooks
+All written in python using various libraries (numpy, matplotlib, bokeh, scikit-learn, pyspark, gensim...)
 
-### 1. Digital communications projects for school
-digital_comm_project1, digital_comm_project2
-### 2. Quick simulation of an urn model that illustrates information cascades in herding behaviours
-urn-model
+### Internet Analytics folder:
+Various notebooks of machine learning labs for the Internet Analytics class.
+
+### Digital Communications folder
+A small digital communications class-project .
+
+### Quick simulation of an urn model that illustrates information cascades in herding behaviours
+-  urn-model.ipynb
