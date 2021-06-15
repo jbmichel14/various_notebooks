@@ -9,3 +9,6 @@ A small digital communications class-project .
 
 ### Quick simulation of an urn model that illustrates information cascades in herding behaviours
 -  urn-model.ipynb
+
+### Data Processing for Database Systems course project
+- collisions_data_processing.ipynb
